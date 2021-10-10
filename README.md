@@ -1,1 +1,1 @@
-# seng3110_geometry_calculator_cli_java
+# SENG3110 Convert the Python Geometry Calculator to Java
